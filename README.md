@@ -13,7 +13,7 @@ There are the py files in my homework:SVM.py, SMO.py and Load_data.py.
 
 The SVM.py includes the main code to run my svm algorithm.
 
-The SMO.py realizes the SMO algorithm mostly according to the textbook. However, I didn't use its method to choose $\alpha$ by judging the KKT condition but to try random
+The SMO.py realizes the SMO algorithm mostly according to the textbook. However, I didn't use its method to choose \alpha by judging the KKT condition but to try random
 choose. Surprisingly it worked better than the former.
 
 The Load_data.py only contains the function of load iris dataset.
