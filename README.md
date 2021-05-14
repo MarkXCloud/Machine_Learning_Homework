@@ -18,7 +18,7 @@ choose. Surprisingly it worked better than the former.
 
 The Load_data.py only contains the function of load iris dataset.
 
-##3.Details
+## 3.Details
 
 When you runs the SVM.py, it will draw the raw data as a scatter and the draw a picture with data point and classify straight line, which is our hyper plane.
 In this file we have our central class *Support_Vector_Machine()*. And to easily get hands on, I put *fit(), pridict()* method in it.
