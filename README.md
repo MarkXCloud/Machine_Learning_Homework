@@ -1,6 +1,6 @@
 # Machine_Learning_Homework
 This is my repo to commit my machine learning homework.
-#Homework On Support Vector Machine
+# Homework On Support Vector Machine
 ---------by Zili Wang
 
 ## 1. Requirements
