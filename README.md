@@ -7,6 +7,8 @@ This is my repo to commit my machine learning homework.Including:
 
 ③ Gaussian Mixture Model
 
+④ Hidden Markov Model
+
 Additional homework will be submitted as long as I get all my works done. However it will not until summer vacation that I have more separate time to share more codes of my own. ILife is hard, and let's manage it.o(╥﹏╥)o
 
 
@@ -31,6 +33,8 @@ choose. Surprisingly it worked better than the former.
 
 The GMM.py contains a GMM model.
 
+The HMM.py contains the method to calculate hidden markov model.
+
 The Load_data.py only contains the function of load iris dataset.
 
 ## 3.Details
@@ -44,3 +48,5 @@ In Adaboost.py the *Adaboost()* is our central class. You can choose *SVM* or *L
 The Horizontal_Classifier.py includes a single line classifier. You can imagine it as a preceptron, premitive and only has one dimention. By the way,please do not get the learning rate *alpha* to big or the line will swinging around.
 
 The GMM.py contains an one dimentional Gaussian Mixture Model. All the parameters would be calculated in a matrix way rather than going through each of them to sum together and divide and bulabulabula... 
+
+The HMM.py used the dynamic programming to seach the best way. However there might be some small bugs of data types in it so I still need time to fix it.
