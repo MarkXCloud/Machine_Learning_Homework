@@ -1,4 +1,6 @@
-# Machine_Learning_Homework----by Zili Wang
+# Machine_Learning_Homework
+> ----by Zili Wang
+
 This is my repo to commit my machine learning homework.Including:
 
 ① Support Vector Machine
@@ -22,20 +24,20 @@ sklearn
 ## 2.Usage
 This repo contains: Adaboost.py, Horizontal_Classify.py, SVM.py, SMO.py , GMM.py and Load_data.py.
 
-The Adaboost.py includes the adaboost algorithm with some weak classifier.
+The `Adaboost.py` includes the adaboost algorithm with some weak classifier.
 
-The Horizontal_Classifier.py is a simple line classifier to make the performance of adaboost more obvious.
+The `Horizontal_Classifier.py` is a simple line classifier to make the performance of adaboost more obvious.
 
-The SVM.py includes the main code to run my svm algorithm.
+The `SVM.py` includes the main code to run my svm algorithm.
 
-The SMO.py realizes the SMO algorithm mostly according to the textbook. However, I didn't use its method to choose α by judging the KKT condition but to try random
+The `SMO.py` realizes the SMO algorithm mostly according to the textbook. However, I didn't use its method to choose α by judging the KKT condition but to try random
 choose. Surprisingly it worked better than the former.
 
-The GMM.py contains a GMM model.
+The `GMM.py` contains a GMM model.
 
-The HMM.py contains the method to calculate hidden markov model.
+The `HMM.py` contains the method to calculate hidden markov model.
 
-The Load_data.py only contains the function of load iris dataset.
+The `Load_data.py` only contains the function of load iris dataset.
 
 ## 3.Details
 When you runs the SVM.py, it will draw the raw data as a scatter and the draw a picture with data point and classify straight line, which is our hyper plane.
